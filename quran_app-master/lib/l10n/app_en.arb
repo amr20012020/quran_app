@@ -1,0 +1,19 @@
+{
+    "appTitle": "Islami",
+    "sura_name": "Sura Names",
+    "ahadeth": "Ahadeth",
+    "tasbeh": "The number of praises",
+    "radio": "Radio",
+    "rosary": "Rosary",
+    "alahadyth": "Alahadyth",
+    "quran" : "Quran",
+    "quran_broadcast" : "Quran broadcast",
+    "settings" : "Settings",
+    "english" : "English",
+    "arabic" : "Arabic",
+    "language" : "Language",
+    "theme" : "Theme",
+    "light" : "Light",
+    "dark" : "dark"
+
+}
